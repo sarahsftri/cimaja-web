@@ -126,6 +126,7 @@
 }
 
 .about__container img {
+  background-image: url('./images/beach2.jpg');
   margin: 100px;
   height: 500px;
   width: auto;

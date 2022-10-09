@@ -128,6 +128,7 @@
 }
 
 .about__images img{
+  background: url(/images/beach3.jpg);
   height: 500px;
   width: auto;
   margin-left: 70px;

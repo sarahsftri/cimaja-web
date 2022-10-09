@@ -114,21 +114,25 @@
 
 .about__container {
   display: flex;
-  padding: 20px;
-  justify-content: space-between;
-  width: 65%;
-  margin: 3rem auto 0 auto;
+  vertical-align: center;
+  align-items: center;
+  flex-direction: row;
+  margin: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .about__container h2 {
   padding-bottom: 50px;
-  margin-top: 70px;
+  margin-top: 0;
 }
 
-.about__container img {
-  background-image: url('./images/beach2.jpg');
-  margin: 100px;
+.about__images img{
   height: 500px;
   width: auto;
+  margin-left: 70px;
 }
+
+
+
 
